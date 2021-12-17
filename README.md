@@ -16,7 +16,7 @@ The game was an attempt on making a horror game that would lead players into an 
 
 <br>
 
-This game was made with [Unity](https://unity.com/), [Visual Studio Code](https://code.visualstudio.com/) and [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/)<br>
+This game was made with [Unity](https://unity.com/), [Visual Studio Code](https://code.visualstudio.com/) and [C-Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/).<br>
 <br>
 
 Find the open scource code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
@@ -33,19 +33,19 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 
 ### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/alarmnectary.png?raw=true" alt="requirements" width="20" height="20"> &nbsp; Current Features &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/alarmnectary.png?raw=true" alt="requirements" width="30" height="20"> </p>
 
-- Game splash screens
-- Ability to move around with joystick
-- Ability to look around with right side of screen
-- Physics for gravity
-- Jumping and jump button
-- Crouching and crouch button
-- Sprinting, sprint button, and stamina UI bar
-- Ammo and magazine counter for pistol (along with UI bar for it)
-- Dropping item in hand and dropping button
-- Detecting for if item is in your hand and the button to use item in hand
-- Ability to pick up items
-- Inventory system and inventory button
-- Base unfinished map
+- Game splash screens.
+- Ability to move around with joystick.
+- Ability to look around with right side of screen.
+- Physics for gravity.
+- Jumping and jump button.
+- Crouching and crouch button.
+- Sprinting, sprint button, and stamina UI bar.
+- Ammo and magazine counter for pistol (along with UI bar for it).
+- Dropping item in hand and dropping button.
+- Detecting for if item is in your hand and the button to use item in hand.
+- Ability to pick up items (and UI button to interact with objects or pickup items).
+- Inventory system and inventory button.
+- Base unfinished map.
 
 <br><br>
 
