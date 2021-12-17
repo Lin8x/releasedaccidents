@@ -24,6 +24,7 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 <br><br>
 
 <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> &nbsp; **If I plan to finish this project, I will add these features in the future** &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> </p>
+
 - Publishing the app on the Google Play Store and Apple's App Store.
 - Support for iOS devices.
 - More lore images and creations.
