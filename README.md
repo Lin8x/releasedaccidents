@@ -20,7 +20,7 @@ The game was an attempt on making a horror game that would lead players into an 
 This game was made with [Unity](https://unity.com/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/unitylogo2.png?raw=true" alt="screenshot1" width="15" height="15">, [Visual Studio Code](https://code.visualstudio.com/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/visualstudiocode.png?raw=true" alt="screenshot2" width="15" height="15"> and [C-Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/Csharplogo.png?raw=true" alt="3" width="15" height="15">.<br> 
 <br>
 
-Find the open scource code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
+Find the open source code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
 
 <br>
 <p align="center"> 
@@ -71,6 +71,9 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 
 This project uses GNU General Public License.<br>
 Read more about the license's requirements towards modifying or reusing this project [here](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+I allow any modification or distribution of this open source version of this game. 
+<br>All I require is that I am credited somewhere obviously either in the title screen, splash screen, or credits menu.
 
 <br>
 
