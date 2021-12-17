@@ -17,8 +17,7 @@ The game was an attempt on making a horror game that would lead players into an 
 
 <br>
 
-This game was made with [Unity](https://unity.com/), [Visual Studio Code](https://code.visualstudio.com/) and [C-Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/).<br>
-<img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/unitylogo.png?raw=true" alt="screenshot1" width="20" height="20"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/visualstudiocode.png?raw=true" alt="screenshot2" width="20" height="20"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/Csharplogo.png?raw=true" alt="3" width="20" height="20"> 
+This game was made with [Unity](https://unity.com/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/unitylogo.png?raw=true" alt="screenshot1" width="20" height="20">, [Visual Studio Code](https://code.visualstudio.com/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/visualstudiocode.png?raw=true" alt="screenshot2" width="20" height="20"> and [C-Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/) <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/Csharplogo.png?raw=true" alt="3" width="20" height="20">.<br> 
 <br>
 
 Find the open scource code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
