@@ -72,7 +72,7 @@ Find the open source code files [here](https://github.com/Lin8x/releasedaccident
 This project uses GNU General Public License.<br>
 Read more about the license's requirements towards modifying or reusing this project [here](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-I allow any modification or distribution of this open source version of this game. 
+I allow any modification or distribution of this open source version of the game. 
 <br>All I require is that I am credited somewhere obviously either in the title screen, splash screen, or credits menu.
 
 <br>
