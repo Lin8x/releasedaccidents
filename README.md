@@ -17,6 +17,14 @@ This game was made with [Unity](https://unity.com/), [Visual Studio Code](https:
 
 Find the open scource code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
 
+<br>
+<p align="center"> 
+  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/screenshotofflashlight.png?raw=true" alt="googleplaymobile" width="23%" height="20%"> 
+  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/mapofgame.png?raw=true" alt="screenshot1" width="20%" height="20%"> 
+  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/screenshotofgame.png?raw=true" alt="screenshot2" width="20%" height="20%"> 
+  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/notdarkimage.png" alt="3" width="20%" height="20%"> 
+</p>
+
 <br><br>
 
 ### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/alarmnectary.png?raw=true" alt="requirements" width="20" height="20"> &nbsp; Current Features &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/alarmnectary.png?raw=true" alt="requirements" width="30" height="20"> </p>
@@ -46,13 +54,6 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 - Enemies/monsters.
 - Unobtrusive advertisement.
 
-<br>
-<p align="center"> 
-  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/screenshotofflashlight.png?raw=true" alt="googleplaymobile" width="23%" height="20%"> 
-  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/mapofgame.png?raw=true" alt="screenshot1" width="20%" height="20%"> 
-  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/screenshotofgame.png?raw=true" alt="screenshot2" width="20%" height="20%"> 
-  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/notdarkimage.png" alt="3" width="20%" height="20%"> 
-</p>
 <br>
 
 <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/smoothleather.jpg?raw=true" width="100%" height="5">
