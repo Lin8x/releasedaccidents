@@ -13,8 +13,10 @@ This game was a month long project on creating a video game for iOS and Android.
 and so for now I will make my current progress as open source.
 
 The game was an attempt on making a horror game that would lead players into an unpublished [A.R.G (Alternate Reality Game)](https://en.wikipedia.org/wiki/Alternate_reality_game).
+<br>
 
 This game was made with [Unity](https://unity.com/), [Visual Studio Code](https://code.visualstudio.com/) and [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/)<br>
+<br>
 
 Find the open scource code files [here](https://github.com/Lin8x/releasedaccidents/find/main)!
 
