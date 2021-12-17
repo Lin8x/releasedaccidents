@@ -90,10 +90,14 @@ I allow any modification or distribution of this open source version of the game
 
 ### <p align="center"> ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) &nbsp; How to Install &nbsp; ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) </p>
 
+**There are two ways to install this application!** 
 For right now, you can only download this game via GitHub.
 <br>
 
-[Github Download Page](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
+1. [Download AAB file (Recommended)](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
+2. [Download AFK file](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
+
+See all releases [here](https://github.com/Lin8x/releasedaccidents/releases)!
 <br><br>
 
 <br>
