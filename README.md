@@ -1,6 +1,6 @@
 <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/smoothleather.jpg?raw=true" width="100%" height="5">
 
-# <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/gamelogo2%20iconlogo.png?raw=true" alt="info" width="20" height="20"> Released Accidents &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/gamelogo2%20iconlogo.png?raw=true" alt="info" width="20" height="20"> </p> 
+# <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/gamelogo2%20iconlogo.png?raw=true" alt="info" width="40" height="40"> Released Accidents &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/gamelogo2%20iconlogo.png?raw=true" alt="info" width="40" height="40"> </p> 
 
 # <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/gamelogo2.png?raw=true" width="30%" height="30%">  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/corruptedlogousethis.png?raw=true" width="30%" height="30%"> </p> 
 
