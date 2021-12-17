@@ -8,6 +8,7 @@
 
 ### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/informationlogo.png?raw=true" alt="info" width="20" height="20"> &nbsp; About Released Accidents &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/informationlogo.png?raw=true" alt="info" width="20" height="20"> </p>
 
+<br>
 This game was a month long project on creating a video game for iOS and Android. I haven't finished it, 
 and so for now I will make my current progress as open source.
 
