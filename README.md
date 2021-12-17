@@ -84,8 +84,8 @@ Read more about the license's requirements towards modifying or reusing this pro
 
 ### <p align="center"> ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) &nbsp; How to Install &nbsp; ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) </p>
 
-**You can download the app directly from this github's releases page**
-<br><br>
+For right now, you can only download this game via GitHub.
+<br>
 
 [Github Download Page](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
 <br><br>
