@@ -19,7 +19,7 @@ The game was an attempt on making a horror game that would lead players into an 
 
 This game was made with [Unity](https://unity.com/), [Visual Studio Code](https://code.visualstudio.com/) and [C-Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/).<br>
 <p align="center"> 
-  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/unitylogo.png?raw=true" alt="screenshot1" width="20" height="20"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/visualstudiocode.png?raw=true" alt="screenshot2" width="20%" height="20%"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/Csharplogo.png?raw=true" alt="3" width="20%" height="20%"> 
+  <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/unitylogo.png?raw=true" alt="screenshot1" width="20" height="20"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/visualstudiocode.png?raw=true" alt="screenshot2" width="20" height="20"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/Csharplogo.png?raw=true" alt="3" width="20" height="20"> 
 </p>
 <br>
 
