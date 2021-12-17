@@ -90,7 +90,7 @@ I allow any modification or distribution of this open source version of the game
 
 ### <p align="center"> ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) &nbsp; How to Install &nbsp; ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) </p>
 
-**There are two ways to install this application!** 
+**There are two ways to install this application!**<br> 
 For right now, you can only download this game via GitHub.
 <br>
 
