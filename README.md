@@ -44,7 +44,7 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 ### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/docslogo.png?raw=true" alt="logo" width="25" height="25"> &nbsp; Project Licensing &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/docslogo.png?raw=true" alt="logo" width="25" height="25"> </p>
 <br>
 
-This project uses GNU General Public License.
+This project uses GNU General Public License.<br>
 Read more about the license's requirements towards modifying or reusing this project [here](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 <br>
@@ -57,8 +57,6 @@ Read more about the license's requirements towards modifying or reusing this pro
 - Any Android Tablet using Android 4.0+
 
 <br>
-
-<p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/pixeldimensions.png" width="400" height="200" alt="pixeldimensions"> </p>
 
 <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/smoothleather.jpg?raw=true" width="100%" height="5">
 
