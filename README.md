@@ -13,7 +13,9 @@ and so for now I will make my current progress as open source.
 
 The game was an attempt on making a horror game that would lead players into an unpublished [A.R.G (Alternate Reality Video Game)](https://en.wikipedia.org/wiki/Alternate_reality_game).
 
-### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> &nbsp; If I plan to finish this project, I will add these features in the future: &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> </p>
+<br><br>
+
+##### <p align="center"> <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> &nbsp; If I plan to finish this project, I will add these features in the future: &nbsp; <img src="https://github.com/Lin8x/releasedaccidents/blob/main/imagesforgithub/direktattentionlogotransparent.png?raw=true" alt="requirements" width="30" height="20"> </p>
 - Publishment on the Google Play Store and Apple's App Store.
 - Support for iOS devices.
 - More lore images and creations
