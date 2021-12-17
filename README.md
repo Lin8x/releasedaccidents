@@ -41,10 +41,13 @@ Find the open scource code files [here](https://github.com/Lin8x/releasedacciden
 - Jumping and jump button.
 - Crouching and crouch button.
 - Sprinting, sprint button, and stamina UI bar.
+- Ability to pick up items (and UI button to interact with objects or pickup items).
+- Tags to determine if an object is able to be picked up or stood on.
+- Animation for picking up an item based on how heavy I assume the item is.
+- A shoot, pickup, gun reload, and magazine reload animation for the pistol.
 - Ammo and magazine counter for pistol (along with UI bar for it).
 - Dropping item in hand and dropping button.
 - Detecting for if item is in your hand and the button to use item in hand.
-- Ability to pick up items (and UI button to interact with objects or pickup items).
 - Inventory system and inventory button.
 - Base unfinished map.
 
