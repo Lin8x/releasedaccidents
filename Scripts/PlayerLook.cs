@@ -48,12 +48,6 @@ public class PlayerLook : MonoBehaviour
         // transform.localRotation = Quaternion.Euler(xrotate, 0f, 0f);
         // playerBody.Rotate(Vector3.up * mouseX);
 
-        // RIGHT HERE GRASS AHHHHHHHHHHs
-        // theres also some above
-        // tell me how to do that
-
-        //idk how to make it work
-
         if (Input.touchCount > 0)
         {
             Touch lookTouch = new Touch();
